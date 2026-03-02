@@ -1,16 +1,19 @@
-## Hi there 👋
+# Kevin Born
 
-<!--
-**kborn/kborn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer focused on backend and data platform architecture.
 
-Here are some ideas to get you started:
+## Featured Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Wai & Watts — Lineage-First Environmental Data Platform
+https://github.com/YOURNAME/wai-and-watts
+
+Deterministic ingestion pipeline with explicit dataset lineage and fact-pack-grounded LLM explanations.
+
+Built with Spring Boot, Postgres, and React.
+
+## Areas of interest
+
+• data platforms  
+• ingestion pipelines  
+• system architecture  
+• safe LLM integration  
