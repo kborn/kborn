@@ -1,19 +1,28 @@
 # Kevin Born
 
-Senior software engineer focused on backend and data platform architecture.
+Senior software engineer specializing in backend and data platform architecture.
+
+Focused on ingestion pipelines, lineage-first system design, and grounded LLM systems.
+
+---
 
 ## Featured Project
 
 ### Wai & Watts — Lineage-First Environmental Data Platform
 https://github.com/kborn/wai_and_watts/
 
-Deterministic ingestion pipeline with explicit dataset lineage and fact-pack-grounded LLM explanations.
+Full-stack platform demonstrating deterministic ingestion pipelines, explicit dataset lineage modeling, and safe LLM explanation architecture.
 
-Built with Spring Boot, Postgres, and React.
+Built with Spring Boot, Postgres, React, and Docker.
 
-## Areas of interest
+---
 
-• data platforms  
-• ingestion pipelines  
-• system architecture  
-• safe LLM integration  
+## Engineering Focus
+
+• Data platform architecture  
+• Backend system design  
+• ETL and ingestion pipelines  
+• Relational data modeling  
+• Safe LLM integration  
+
+---
