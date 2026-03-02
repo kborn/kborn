@@ -5,7 +5,7 @@ Senior software engineer focused on backend and data platform architecture.
 ## Featured Project
 
 ### Wai & Watts — Lineage-First Environmental Data Platform
-https://github.com/kborn/wai-and-watts
+https://github.com/kborn/wai_and_watts/
 
 Deterministic ingestion pipeline with explicit dataset lineage and fact-pack-grounded LLM explanations.
 
