@@ -1,10 +1,9 @@
 # Kevin Born
 
-Senior software engineer focused on backend and data-intensive full-stack
-systems.
-
-I build production-grade platforms with strong domain models, explicit
-architecture decisions, and practical developer workflows.
+I’m a senior engineer at Pearl Health focused on healthcare data platforms.
+My core work spans CMS ingestion pipelines, claims-domain modeling, and API
+services, with an emphasis on traceable data contracts, PHI-safe operational
+patterns, and reliable AWS-native execution using Python, Spark, and FastAPI.
 
 ## Featured Repository
 
