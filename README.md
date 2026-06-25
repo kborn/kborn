@@ -7,11 +7,13 @@ patterns, and reliable AWS-native execution using Python, Spark, and FastAPI.
 
 ## Featured Repository
 
-### SignalFire (Find Your Fight)
-https://github.com/kborn/signalfire
+### Featured Project: Find My Fight
 
-Full-stack civic action platform connecting issue discovery to real-world
-participation through content, submissions, and moderation workflows.
+Find My Fight is a deployed civic engagement platform built with Next.js, NestJS, TypeScript, PostgreSQL, Prisma, and pnpm. It helps users explore public issues, read curated context, discover actions and events, and submit new content through a moderated editorial workflow.
+
+Live demo: https://demo.findmyfight.com
+Repository: https://github.com/kborn/signalfire
+
 
 **Stack:** Next.js, NestJS, PostgreSQL, Prisma, pnpm monorepo
 
